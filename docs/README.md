@@ -35,7 +35,11 @@ OctoAcme follows a structured, customer-focused approach to project management:
 - **Project Manager (PM)** — Coordinates delivery, manages schedules, risks, and communications
 - **Product Manager (PdM)** — Defines outcomes, prioritizes the backlog, measures success
 - **Developers** — Implement features, collaborate on design and testability
-- **QA/Testing** — Validate quality and acceptance criteria
+- **QA Lead** — Oversees quality strategy, test plans, and release-readiness sign-off
+- **UX/UI Designer** — Creates wireframes, mockups, and design assets; ensures usability standards
+- **Release Manager** — Owns the release workflow and coordinates deployment activities
+- **Customer Support Lead** — Bridges end users and the delivery team; feeds back user issues
+- **Technical Writer** — Maintains accurate, up-to-date documentation across all project phases
 - **Stakeholders** — Provide inputs, approvals, and feedback
 
 For detailed persona definitions, see [Roles and Personas](./octoacme-roles-and-personas.md).
@@ -45,6 +49,7 @@ For detailed persona definitions, see [Roles and Personas](./octoacme-roles-and-
 Quick links to all OctoAcme project management process documents:
 
 - **[Project Management Overview](./octoacme-project-management-overview.md)** — High-level introduction to OctoAcme's project management approach, principles, and key artifacts
+- **[Roles and Personas](./octoacme-roles-and-personas.md)** — Definitions for all project roles including QA Lead, UX/UI Designer, Release Manager, Customer Support Lead, and Technical Writer
 - **[Project Initiation Guide](./octoacme-project-initiation.md)** — Steps to validate business need, align stakeholders, and authorize work
 - **[Project Planning](./octoacme-project-planning.md)** — How to break work into shippable increments and create an actionable plan
 - **[Execution & Tracking](./octoacme-execution-and-tracking.md)** — Day-to-day execution, team rhythm, quality standards, and blocker escalation
@@ -52,14 +57,19 @@ Quick links to all OctoAcme project management process documents:
 - **[Release & Deployment Guide](./octoacme-release-and-deployment.md)** — Standardized approach to releasing features and managing deployments
 - **[Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)** — How to capture learnings and convert them into improvements
 
+- **[Release Checklist](./octoacme-release-checklist.md)** — Step-by-step checklist for the Release Manager to plan and execute releases
+- **[Design Handoff Checklist](./octoacme-design-handoff-checklist.md)** — UX/UI Designer handoff process ensuring design completeness before development begins
+- **[New Team Member Onboarding Checklist](./octoacme-onboarding-checklist.md)** — Cross-role onboarding guide for all new project team members
+
 ## Quick Start
 
 **New to OctoAcme projects?** Start here:
 
 1. Read the **[Project Management Overview](./octoacme-project-management-overview.md)** for context
 2. Review **[Roles and Personas](./octoacme-roles-and-personas.md)** to understand your role
-3. Follow the appropriate phase guide (Initiation → Planning → Execution → Release → Retrospective)
-4. Refer to **[Risk Management & Communication](./octoacme-risks-and-communication.md)** as needed
+3. Complete the **[New Team Member Onboarding Checklist](./octoacme-onboarding-checklist.md)**
+4. Follow the appropriate phase guide (Initiation → Planning → Execution → Release → Retrospective)
+5. Refer to **[Risk Management & Communication](./octoacme-risks-and-communication.md)** as needed
 
 **Have a question about a specific phase?** Use the Process Docs Index above to find the relevant guide.
 
